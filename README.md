@@ -1,11 +1,4 @@
 # Noteforlinux
 ## 插入数学公式
 1. 使用google chart服务器
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-居中格式: $$xxx$$
-$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
-靠左格式: \\(xxx\\)
-\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
-测试
-$$\frac{7x+5}{1+y^2}$$
-\\(l(x_i) = - \log_2 P(x_i)\\)
+<a href="https://www.codecogs.com/eqnedit.php?latex=ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?ax^{2}&space;&plus;&space;by^{2}&space;&plus;&space;c&space;=&space;0" title="ax^{2} + by^{2} + c = 0" /></a>
