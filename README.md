@@ -4,4 +4,6 @@
 $$
 x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
 $$
-＼$[J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}
+$$
+[J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}
+$$
