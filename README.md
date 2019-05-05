@@ -7,6 +7,4 @@ $$
 $$
 [J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}]
 $$
-$$ 
-f(x) = {\begin{aligned}x & = & \cos(t) \\y & = & \sin(t) \\z & = & \frac xy\end{aligned}\right
-$$
+$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$
