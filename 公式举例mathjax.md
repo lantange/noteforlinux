@@ -1,5 +1,6 @@
 ## 插入数学公式
 ### 方法1：使用GitHub with MathJax
+[参考链接](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
 1. 行内公式`$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$`  
 公式$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$  
 2. 行间公式`$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$`
