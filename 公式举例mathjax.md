@@ -33,4 +33,4 @@ $$\left\[
 \end{array}
 \right\] $$
 + 行内小矩阵  
-行内小矩阵$\left( \begin{smallmatrix} a & b \\\\ c & d \end{smallmatrix} \right)$
+行内小矩阵$\bigl( \begin{smallmatrix} a & b \\\\ c & d \end{smallmatrix} \bigr)$
