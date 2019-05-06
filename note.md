@@ -1,5 +1,5 @@
 ## 插入数学公式
-换行  换行
+换行	换行
 1. 使用GitHub with MathJax $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$
 $$
 x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
