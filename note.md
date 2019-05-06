@@ -6,3 +6,9 @@ $$
 $$
 [J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}]
 $$
+$$ \left[
+\begin{array}{cc|c}
+  1&2&3\\
+  4&5&6
+\end{array}
+\right] $$
