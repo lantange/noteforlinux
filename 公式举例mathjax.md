@@ -25,6 +25,15 @@ a_1x+b_1y+c_1z=d_1\\\\
 a_2x+b_2y+c_2z=d_2\\\\
 a_3x+b_3y+c_3z=d_3
 \end{cases}$$
+$$
+\left\{ 
+\begin{array}{c}
+a_1x+b_1y+c_1z=d_1 \\ 
+a_2x+b_2y+c_2z=d_2 \\ 
+a_3x+b_3y+c_3z=d_3
+\end{array}
+\right. 
+$$
 + 增广矩阵
 $$\left\[
 \begin{array}{cc|c}
