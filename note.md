@@ -11,9 +11,9 @@ $$\mathop{argmax}_{K}$$
 $$\lim_{n \rightarrow +\infty} \frac{1}{n(n+1)}$$
 
 $$
-\begin{matrix}
-	1 & x & x^2 \\
-	1 & y & y^2 \\
-	1 & z & z^2 \\
-\end{matrix}
+\left\begin{matrix}
+	1 & x & x^2 \\\\
+	1 & y & y^2 \\\\
+	1 & z & z^2 \\\\
+\right\end{matrix}
 $$
