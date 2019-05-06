@@ -6,4 +6,5 @@ $$
 $$[J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}]$$
 $$x^{y^z}=(1+{\rm e}^x)^{-2xy^w}$$
 $$\mathop{argmax}_{K}$$
+
 $$\lim_{n \rightarrow +\infty} \frac{1}{n(n+1)}$$
