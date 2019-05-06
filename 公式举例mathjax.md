@@ -33,7 +33,7 @@ a_3x+b_3y+c_3z=d_3
 \end{cases}$$
 - 大括号等式右边
 $$
-\left.\right)
+\left.\right\\}
 $$
 + 增广矩阵
 $$\left\[
