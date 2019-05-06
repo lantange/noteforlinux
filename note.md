@@ -8,3 +8,12 @@ $$x^{y^z}=(1+{\rm e}^x)^{-2xy^w}$$
 $$\mathop{argmax}_{K}$$
 
 $$\lim_{n \rightarrow +\infty} \frac{1}{n(n+1)}$$
+
+$$ f(x)=\left\{
+\begin{aligned}
+x & = & \cos(t) \\
+y & = & \sin(t) \\
+z & = & \frac xy
+\end{aligned}
+\right
+$$
