@@ -6,5 +6,13 @@ $$
 $$
 [J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}]
 $$
-\[$ f(x)=\left\{ \begin{aligned} x & = & \cos(t) \\ y & = & \sin(t) \\ z & = & \frac xy \end{aligned} \right. $\]
+$$
+  \begin{pmatrix}
+    a & b\\
+    c & d\\
+  \hline
+    1 & 0\\
+    0 & 1
+  \end{pmatrix}
+$$
 
