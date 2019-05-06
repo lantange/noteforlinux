@@ -4,10 +4,14 @@
 公式$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$  
 2. 行间公式
 $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$  
-3. 复杂公式举例
+3. 复杂公式举例  
++ 求和
 $$\[J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)}\]$$
++ 指数的指数
 $$x^{y^z}=(1+{\rm e}^x)^{-2xy^w}$$
++ 似然最大
 $$\mathop{argmax}\_{K}$$
++ 求极限
 $$\lim_{n \rightarrow +\infty} \frac{1}{n(n+1)}$$
 $$\begin{pmatrix}
 	1 & x & x^2 \\\\
