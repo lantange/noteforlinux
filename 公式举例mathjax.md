@@ -33,4 +33,5 @@ $$\left\[
 \end{array}
 \right\] $$
 + 行内小矩阵  
-行内小矩阵$\bigl( \begin{smallmatrix} a & b \\\\ c & d \end{smallmatrix} \bigr)$
+行内小矩阵$\bigl( \begin{smallmatrix} a & b \\\\ c & d \end{smallmatrix} \bigr)$  
+(\frac{\sqrt x}{y^3})
