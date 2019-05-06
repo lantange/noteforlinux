@@ -35,7 +35,7 @@ a_3x+b_3y+c_3z=d_3
 $$
 \left.
 \begin{array}{l}
-\text{if $n$ is even:}&n/2\\
+\text{if $n$ is even:}&n/2\\\\
 \text{if $n$ is odd:}&3n+1
 \end{array}
 \right\\}
