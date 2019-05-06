@@ -1,8 +1,8 @@
 ## 插入数学公式
 ### 方法1：使用GitHub with MathJax
-1. 行内公式  
+1. 行内公式  `x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}`
 公式$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$  
-2. 行间公式
+2. 行间公式`x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}`
 $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$  
 3. 复杂公式举例  
 + 求和
@@ -34,4 +34,3 @@ $$\left\[
 \right\] $$
 + 行内小矩阵  
 行内小矩阵$\bigl( \begin{smallmatrix} a & b \\\\ c & d \end{smallmatrix} \bigr)$  
-`(\frac{\sqrt x}{y^3})`
