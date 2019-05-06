@@ -7,9 +7,11 @@ $$
 [J_\alpha(x) = \sum_{m=0}^\infty \frac{(-1)^m}{m! \Gamma (m + \alpha + 1)} {\left({ \frac{x}{2} }\right)}]
 $$
 $$
-$x^{y^z}=(1+{\rm e}^x)^{-2xy^w}$
+x^{y^z}=(1+{\rm e}^x)^{-2xy^w}
 $$
 $$\mathop{argmax}_{K}$$
-$\left. \frac{{\rm d}u}{{\rm d}x} \right| _{x=0}$
-$\vec{a} \cdot \vec{b}=0$
-$\lim\limits_{n \rightarrow +\infty} \frac{1}{n(n+1)}$
+$$
+\left. \frac{{\rm d}u}{{\rm d}x} \right| _{x=0}
+$$
+$$\vec{a} \cdot \vec{b}=0$$
+$$\lim\limits_{n \rightarrow +\infty} \frac{1}{n(n+1)}$$
