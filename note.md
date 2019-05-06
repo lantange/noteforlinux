@@ -11,8 +11,8 @@ $$\lim_{n \rightarrow +\infty} \frac{1}{n(n+1)}$$
 
 $$
 \begin{aligned}
-x & = & \cos(t) \\  
-y & = & \sin(t) \\  
-z & = & \frac xy  
+x & = & \cos(t) \\
+y & = & \sin(t) \\
+z & = & \frac xy
 \end{aligned}
 $$
