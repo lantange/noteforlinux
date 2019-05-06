@@ -33,12 +33,11 @@ a_3x+b_3y+c_3z=d_3
 \end{cases}$$
 - 大括号等式右边
 $$
-\left .{\begin{array}{l}
+\begin{cases}
 \text{if $n$ is even:}&n/2\\\\
 \text{if $n$ is odd:}&3n+1
-\end{array}
-\right\}
-=f(n)$$
+\end{cases}=f(n)
+$$
 + 增广矩阵
 $$\left\[
 \begin{array}{cc|c}
