@@ -15,5 +15,5 @@ x & = & \cos(t) \\
 y & = & \sin(t) \\
 z & = & \frac xy
 \end{aligned}
-\right
+\right.
 $$
