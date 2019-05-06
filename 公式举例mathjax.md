@@ -34,7 +34,7 @@ a_3x+b_3y+c_3z=d_3
 - 大括号等式右边
 $$
 \left\{\begin{array}{l}
-\text{if $n$ is even:}&n/2\\
+\text{if $n$ is even:}&n/2\\\\
 \text{if $n$ is odd:}&3n+1
 \end{array}
 \right\}
