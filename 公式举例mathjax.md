@@ -31,6 +31,14 @@ a_1x+b_1y+c_1z=d_1\\\\
 a_2x+b_2y+c_2z=d_2\\\\
 a_3x+b_3y+c_3z=d_3
 \end{cases}$$
+++大括号等式右边
+$$\left.
+\begin{array}{l}
+\text{if $n$ is even:}&n/2\\
+\text{if $n$ is odd:}&3n+1
+\end{array}
+\right\}
+=f(n)$$
 + 增广矩阵
 $$\left\[
 \begin{array}{cc|c}
