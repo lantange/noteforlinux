@@ -10,4 +10,4 @@ $$\mathop{argmax}_{K}$$
 
 $$\lim_{n \rightarrow +\infty} \frac{1}{n(n+1)}$$
 
-$$ f(x)=\left\{$$
+$$ f(x)=\{$$
