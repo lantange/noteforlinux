@@ -13,7 +13,12 @@ $$x^{y^z}=(1+{\rm e}^x)^{-2xy^w}$$
 $$\mathop{argmax}\_{K}$$
 + 求极限
 $$\lim_{n \rightarrow +\infty} \frac{1}{n(n+1)}$$
-+ 矩阵
++ 矩阵  
+`$$\begin{pmatrix}
+	1 & x & x^2 \\\\
+	1 & y & y^2 \\\\
+	1 & z & z^2 \\\\
+\end{pmatrix}$$`
 $$\begin{pmatrix}
 	1 & x & x^2 \\\\
 	1 & y & y^2 \\\\
